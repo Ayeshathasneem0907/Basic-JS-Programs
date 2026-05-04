@@ -1,5 +1,5 @@
-let a = 56
+let a = 56;
 if(a % 2 == 0)
-    console.log("even")
+    console.log("even");
 else
-    console.log("odd")
+    console.log("odd");
